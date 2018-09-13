@@ -3,3 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 GIT tracks changes git 管理的是修改，而不是文件
 然后再修改
+
+第一次修改，提交到暂缓区，最后同步到版本库
