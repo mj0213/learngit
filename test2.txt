@@ -1,1 +1,5 @@
-十分十分的
+git pull git@codehub.devcloud.huaweicloud.com:zhktglpt/springbootWeb.git
+git add *
+git commit -m'修改bug'
+git push origin master
+可以直接使用cmd
